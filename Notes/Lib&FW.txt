@@ -1,0 +1,17 @@
+SPA - Single Page Application
+
+Library - Collection of API's to do one type of task
+
+jQuery - DOM Manipulations, AJAX
+momentjs - Date Processing API
+d3js - Data Visualization
+underscorejs - Process a set of data (Array)
+
+Framework - Collection of API's to create a application
+
+Rules to be followed when you write your code
+Code Structuring is already decided
+Built in Services (E.g. Dependency Injector)
+
+
+Library Vs Framework - Never Compare

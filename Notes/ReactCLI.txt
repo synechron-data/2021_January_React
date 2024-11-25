@@ -1,0 +1,23 @@
+Install Node from nodejs.org
+
+Test Node Installation
+	node -v
+	npm -v
+	npx -v
+
+npm
+
+	1. npm install -g create-react-app
+	2. create-react-app my-app
+
+npx
+
+	npx create-react-app my-app
+
+
+npm start
+
+npm run build
+
+npm run eject
+	
